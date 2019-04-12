@@ -1,0 +1,13 @@
+20:42:05.514 [main] INFO  resources.TestBase - User has navigated to the dashboard page
+20:42:05.554 [main] INFO  resources.TestBase - Logging to the application
+20:42:07.610 [main] INFO  resources.TestBase - Successfully logged in to the appliction
+20:42:07.646 [main] INFO  resources.TestBase - Logging out of the application
+15:08:45.404 [main] INFO  resources.TestBase - Initailizing driver
+15:08:48.702 [main] INFO  resources.TestBase - Picking data login
+15:08:48.702 [main] INFO  resources.TestBase - Login data successfully picked
+15:10:42.979 [main] INFO  resources.TestBase - Initailizing driver
+15:11:08.890 [main] INFO  resources.TestBase - Driver is initailized
+15:11:08.905 [main] INFO  resources.TestBase - Picking data login
+15:11:08.905 [main] INFO  resources.TestBase - Login data successfully picked
+15:11:08.927 [main] INFO  resources.TestBase - Logging to the application
+15:11:36.899 [main] INFO  resources.TestBase - Logging to the application with invalid id and invalid password

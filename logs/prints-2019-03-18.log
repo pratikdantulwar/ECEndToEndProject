@@ -1,0 +1,16 @@
+18:40:18.501 [main] INFO  resources.Base - Entered username
+18:40:42.756 [main] INFO  resources.Base - Entered password
+18:40:45.248 [main] INFO  resources.Base - Navigated to dashboard page
+18:43:50.271 [main] INFO  resources.Base - Driver is initailize
+18:43:55.358 [main] INFO  resources.Base - Navigated to login page
+18:43:56.425 [main] INFO  resources.Base - Entered username
+18:43:58.198 [main] INFO  resources.Base - Entered password
+18:43:59.354 [main] INFO  resources.Base - Navigated to dashboard page
+18:48:02.317 [main] INFO  resources.Base - Driver is initailize
+18:48:11.158 [main] INFO  resources.Base - Navigated to login page
+18:48:13.034 [main] INFO  resources.Base - Entered username
+18:48:15.341 [main] INFO  resources.Base - Entered password
+18:48:16.237 [main] INFO  resources.Base - Navigated to dashboard page
+17:46:28.801 [main] INFO  resources.Base - Driver is initailize
+17:46:36.302 [main] INFO  resources.Base - Navigated to login page
+17:46:37.533 [main] INFO  resources.Base - Entered username

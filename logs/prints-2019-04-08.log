@@ -1,0 +1,133 @@
+18:46:05.956 [main] INFO  resources.TestBase - Driver is initailize
+18:46:24.612 [main] INFO  resources.TestBase - Validated the error message for blank id
+18:46:38.475 [main] INFO  resources.TestBase - Driver is initailize
+18:46:55.206 [main] INFO  resources.TestBase - Validated the error message for blank password
+18:47:09.202 [main] INFO  resources.TestBase - Driver is initailize
+18:47:26.331 [main] INFO  resources.TestBase - Validated the error message for invalid id
+18:47:41.015 [main] INFO  resources.TestBase - Driver is initailize
+18:47:57.638 [main] INFO  resources.TestBase - Successfully login to the application
+18:48:06.021 [main] INFO  resources.TestBase - tapping on issue option
+18:48:06.400 [main] INFO  resources.TestBase - navigated to issue listing page
+18:48:14.074 [main] INFO  resources.TestBase - navigated to issue creation page
+18:48:14.080 [main] INFO  resources.TestBase - Filling the issue creation form
+18:48:16.245 [main] INFO  resources.TestBase - issue title set : ELVM74THOBKBIFJK8T
+18:48:17.213 [main] INFO  resources.TestBase - entered description
+18:48:17.711 [main] INFO  resources.TestBase - entered impact
+18:48:18.893 [main] INFO  resources.TestBase - entered indetfiedDate
+18:48:22.303 [main] INFO  resources.TestBase - entered dueDate
+18:48:25.727 [main] INFO  resources.TestBase - selected assigned owner
+18:48:26.865 [main] INFO  resources.TestBase - selected severity
+18:48:27.858 [main] INFO  resources.TestBase - selected milestone
+18:48:30.569 [main] INFO  resources.TestBase - Submitted the issue
+19:16:49.276 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+19:17:06.408 [main] INFO  resources.TestBase - Driver is initailize
+19:17:22.193 [main] INFO  resources.TestBase - Successfully login to the application
+19:17:30.321 [main] INFO  resources.TestBase - tapping on issue option
+19:17:30.679 [main] INFO  resources.TestBase - navigated to issue listing page
+19:17:33.497 [main] INFO  resources.TestBase - navigated to issue creation page
+19:17:33.504 [main] INFO  resources.TestBase - Filling the issue creation form
+19:17:35.228 [main] INFO  resources.TestBase - issue title set : NELFTBN0XGM1D4CEHB
+19:17:36.172 [main] INFO  resources.TestBase - entered description
+19:17:36.801 [main] INFO  resources.TestBase - entered impact
+19:17:37.858 [main] INFO  resources.TestBase - entered indetfiedDate
+19:17:41.446 [main] INFO  resources.TestBase - entered dueDate
+19:17:44.974 [main] INFO  resources.TestBase - selected assigned owner
+19:17:45.755 [main] INFO  resources.TestBase - selected severity
+19:17:46.682 [main] INFO  resources.TestBase - selected milestone
+19:17:49.766 [main] INFO  resources.TestBase - Submitted the issue
+10:43:48.764 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+10:44:39.118 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+10:45:03.258 [main] INFO  resources.TestBase - Driver is initailize
+10:45:47.627 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+10:46:02.293 [main] INFO  resources.TestBase - Driver is initailize
+10:46:06.016 [main] INFO  resources.TestBase - Successfully login to the application
+10:46:07.276 [main] INFO  resources.TestBase - tapping on issue option
+10:46:07.705 [main] INFO  resources.TestBase - navigated to issue listing page
+10:46:09.390 [main] INFO  resources.TestBase - navigated to issue creation page
+10:46:09.397 [main] INFO  resources.TestBase - Filling the issue creation form
+10:46:11.062 [main] INFO  resources.TestBase - issue title set : XHGD6VHOF6RWQ90PYC
+10:46:12.014 [main] INFO  resources.TestBase - entered description
+10:46:12.476 [main] INFO  resources.TestBase - entered impact
+10:46:13.695 [main] INFO  resources.TestBase - entered indetfiedDate
+10:46:17.134 [main] INFO  resources.TestBase - entered dueDate
+10:46:26.797 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+10:46:41.357 [main] INFO  resources.TestBase - Driver is initailize
+10:48:09.002 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+10:48:24.763 [main] INFO  resources.TestBase - Driver is initailize
+10:48:53.211 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+10:49:07.639 [main] INFO  resources.TestBase - Driver is initailize
+10:54:47.446 [main] INFO  resources.TestBase - Driver is initailize
+10:54:49.743 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+10:54:50.332 [main] INFO  resources.TestBase - Picking data login
+10:54:50.332 [main] INFO  resources.TestBase - Login data successfully picked
+10:54:50.370 [main] INFO  resources.TestBase - Logging to the application
+10:54:52.128 [main] INFO  resources.TestBase - Successfully logged in to the appliction
+10:54:52.161 [main] INFO  resources.TestBase - Logging out of the application
+10:54:54.601 [main] INFO  resources.TestBase - Successfully logged out of the application
+10:54:54.602 [main] INFO  resources.TestBase - User has navigated to the dashboard page
+10:54:55.939 [main] INFO  resources.TestBase - Validated the error message for blank id
+10:54:59.541 [main] INFO  resources.TestBase - Validated the error message for invalid id
+10:55:00.509 [main] INFO  resources.TestBase - Successfully login to the application
+10:55:01.726 [main] INFO  resources.TestBase - tapping on issue option
+10:55:02.333 [main] INFO  resources.TestBase - navigated to issue listing page
+10:55:03.815 [main] INFO  resources.TestBase - navigated to issue creation page
+10:55:03.819 [main] INFO  resources.TestBase - Filling the issue creation form
+10:55:04.792 [main] INFO  resources.TestBase - issue title set : Issue692
+10:55:05.838 [main] INFO  resources.TestBase - entered description
+10:55:06.260 [main] INFO  resources.TestBase - entered impact
+10:55:07.302 [main] INFO  resources.TestBase - entered indetfiedDate
+10:55:10.651 [main] INFO  resources.TestBase - entered dueDate
+10:55:14.283 [main] INFO  resources.TestBase - selected assigned owner
+10:55:15.085 [main] INFO  resources.TestBase - selected severity
+10:55:15.971 [main] INFO  resources.TestBase - selected milestone
+10:55:18.695 [main] INFO  resources.TestBase - Submitted the issue
+11:32:38.311 [main] INFO  resources.TestBase - Driver is initailize
+11:32:40.972 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+11:32:44.204 [main] INFO  resources.TestBase - Successfully login to the application
+11:32:45.726 [main] INFO  resources.TestBase - tapping on issue option
+11:32:46.304 [main] INFO  resources.TestBase - navigated to issue listing page
+11:32:47.903 [main] INFO  resources.TestBase - navigated to issue creation page
+11:32:47.909 [main] INFO  resources.TestBase - Filling the issue creation form
+11:32:48.853 [main] INFO  resources.TestBase - issue title set : Issue293
+11:32:49.768 [main] INFO  resources.TestBase - entered description
+11:32:50.146 [main] INFO  resources.TestBase - entered impact
+11:32:51.214 [main] INFO  resources.TestBase - entered indentfiedDate
+11:32:54.314 [main] INFO  resources.TestBase - entered dueDate
+11:32:57.740 [main] INFO  resources.TestBase - selected assigned owner
+11:32:58.375 [main] INFO  resources.TestBase - selected severity
+11:32:59.180 [main] INFO  resources.TestBase - selected milestone
+11:33:01.925 [main] INFO  resources.TestBase - Submitted the issue
+11:33:50.170 [main] INFO  resources.TestBase - Driver is initailize
+11:33:52.226 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+11:33:59.163 [main] INFO  resources.TestBase - Successfully login to the application
+11:34:05.112 [main] INFO  resources.TestBase - tapping on issue option
+11:34:10.415 [main] INFO  resources.TestBase - navigated to issue listing page
+11:34:16.402 [main] INFO  resources.TestBase - navigated to issue creation page
+11:34:16.408 [main] INFO  resources.TestBase - Filling the issue creation form
+11:34:17.008 [main] INFO  resources.TestBase - issue title set : Issue538
+11:34:17.471 [main] INFO  resources.TestBase - entered description
+11:34:18.226 [main] INFO  resources.TestBase - entered impact
+11:34:19.055 [main] INFO  resources.TestBase - entered indentfiedDate
+11:34:21.789 [main] INFO  resources.TestBase - entered dueDate
+11:34:24.381 [main] INFO  resources.TestBase - selected assigned owner
+11:34:24.967 [main] INFO  resources.TestBase - selected severity
+11:34:25.598 [main] INFO  resources.TestBase - selected milestone
+11:34:27.943 [main] INFO  resources.TestBase - Submitted the issue
+11:44:44.667 [main] INFO  resources.TestBase - Driver is initailize
+11:44:46.862 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+11:44:56.466 [main] INFO  resources.TestBase - Successfully login to the application
+11:44:57.703 [main] INFO  resources.TestBase - tapping on issue option
+11:44:58.142 [main] INFO  resources.TestBase - navigated to issue listing page
+11:44:59.883 [main] INFO  resources.TestBase - navigated to issue creation page
+11:44:59.889 [main] INFO  resources.TestBase - Filling the issue creation form
+11:45:00.792 [main] INFO  resources.TestBase - issue title set : Issue39
+11:45:01.693 [main] INFO  resources.TestBase - entered description
+11:45:02.123 [main] INFO  resources.TestBase - entered impact
+11:45:03.181 [main] INFO  resources.TestBase - entered indentfiedDate
+11:45:06.483 [main] INFO  resources.TestBase - entered dueDate
+11:45:09.664 [main] INFO  resources.TestBase - selected assigned owner
+11:45:10.517 [main] INFO  resources.TestBase - selected severity
+11:45:11.379 [main] INFO  resources.TestBase - selected milestone
+11:45:14.272 [main] INFO  resources.TestBase - Submitted the issue
+11:49:18.332 [main] INFO  resources.TestBase - Driver is initailize
+11:49:20.468 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation

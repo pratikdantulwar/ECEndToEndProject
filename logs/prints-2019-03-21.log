@@ -1,0 +1,14 @@
+17:23:34.597 [main] INFO  resources.TestBase - Navigated to login page
+17:23:36.238 [main] INFO  resources.TestBase - Entered username
+17:23:39.604 [main] INFO  resources.TestBase - Entered password
+17:23:41.823 [main] INFO  resources.TestBase - Navigated to dashboard page
+17:23:41.875 [main] INFO  resources.TestBase - logout of the application
+17:23:41.875 [main] INFO  resources.TestBase - tapping on hamburger menu
+17:23:49.544 [main] INFO  resources.TestBase - tapping on logout option
+17:23:52.569 [main] INFO  resources.TestBase - Navigated back to login page
+17:23:52.570 [main] INFO  resources.TestBase - Successfully logout of the applcation
+11:59:09.979 [main] INFO  resources.TestBase - Driver is initailize
+11:59:20.350 [main] INFO  resources.TestBase - Navigated to login page
+11:59:22.070 [main] INFO  resources.TestBase - Entered username
+11:59:25.004 [main] INFO  resources.TestBase - Entered password
+11:59:26.902 [main] INFO  resources.TestBase - Navigated to dashboard page

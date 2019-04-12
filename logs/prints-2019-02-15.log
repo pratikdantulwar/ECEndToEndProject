@@ -1,0 +1,16 @@
+18:07:29.540 [main] INFO  resources.Base - Entered username
+18:07:29.659 [main] INFO  resources.Base - Entered password
+18:07:29.660 [main] INFO  resources.Base - Non Restricted user
+18:07:32.000 [main] INFO  resources.Base - Navigated to home page
+18:07:34.752 [main] INFO  resources.Base - Drivre is initailize
+18:07:50.701 [main] INFO  resources.Base - Navigated to home page
+19:27:22.874 [main] INFO  resources.Base - Drivre is initailize
+19:27:38.861 [main] INFO  resources.Base - Navigated to home page
+19:27:47.717 [main] INFO  resources.Base - Entered username
+19:27:47.813 [main] INFO  resources.Base - Entered password
+19:27:47.813 [main] INFO  resources.Base - Restricted user
+19:27:55.393 [main] INFO  resources.Base - Navigated to home page
+19:27:57.802 [main] INFO  resources.Base - Navigated to home page
+19:28:09.365 [main] INFO  resources.Base - Entered username
+19:28:09.532 [main] INFO  resources.Base - Entered password
+19:28:09.533 [main] INFO  resources.Base - Non Restricted user

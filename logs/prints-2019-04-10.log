@@ -1,0 +1,130 @@
+18:30:23.842 [main] INFO  resources.TestBase - Successfully login to the application
+18:30:24.579 [main] INFO  resources.TestBase - tapping on issue option
+18:30:24.918 [main] INFO  resources.TestBase - navigated to issue listing page
+18:35:42.354 [main] INFO  resources.TestBase - Driver is initailize
+18:35:45.824 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+18:35:48.104 [main] INFO  resources.TestBase - Successfully login to the application
+18:35:48.821 [main] INFO  resources.TestBase - tapping on issue option
+18:35:49.149 [main] INFO  resources.TestBase - navigated to issue listing page
+18:53:56.952 [main] INFO  resources.TestBase - Driver is initailize
+18:53:59.104 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+18:54:01.644 [main] INFO  resources.TestBase - Successfully login to the application
+18:54:02.407 [main] INFO  resources.TestBase - tapping on issue option
+18:54:02.828 [main] INFO  resources.TestBase - navigated to issue listing page
+18:54:11.169 [main] INFO  resources.TestBase - navigated to issue creation page
+18:54:11.173 [main] INFO  resources.TestBase - Filling the issue creation form
+18:54:12.270 [main] INFO  resources.TestBase - issue title set : Issue201
+18:54:13.946 [main] INFO  resources.TestBase - entered description
+18:54:15.914 [main] INFO  resources.TestBase - entered impact
+18:54:16.979 [main] INFO  resources.TestBase - entered indentfiedDate
+18:54:20.322 [main] INFO  resources.TestBase - entered dueDate
+18:54:23.518 [main] INFO  resources.TestBase - selected assigned owner
+18:54:24.181 [main] INFO  resources.TestBase - selected severity
+18:54:24.879 [main] INFO  resources.TestBase - selected milestone
+18:54:27.674 [main] INFO  resources.TestBase - Submitted the issue
+18:55:05.704 [main] INFO  resources.TestBase - Driver is initailize
+18:55:07.794 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+18:55:10.172 [main] INFO  resources.TestBase - Validated the error message for blank password
+18:55:11.689 [main] INFO  resources.TestBase - Validated the error message for invalid id
+18:55:12.841 [main] INFO  resources.TestBase - Validated the error message for blank id
+18:55:12.846 [main] INFO  resources.TestBase - Picking data login
+18:55:12.846 [main] INFO  resources.TestBase - Login data successfully picked
+18:55:12.853 [main] INFO  resources.TestBase - Logging to the application
+18:55:14.061 [main] INFO  resources.TestBase - Successfully logged in to the appliction
+18:55:14.076 [main] INFO  resources.TestBase - Logging out of the application
+18:55:16.231 [main] INFO  resources.TestBase - Successfully logged out of the application
+18:55:16.232 [main] INFO  resources.TestBase - User has navigated to the dashboard page
+18:55:16.241 [main] INFO  resources.TestBase - Logging to the application
+18:55:20.129 [main] INFO  resources.TestBase - Successfully login to the application
+18:55:20.663 [main] INFO  resources.TestBase - tapping on issue option
+18:55:20.967 [main] INFO  resources.TestBase - navigated to issue listing page
+18:55:29.322 [main] INFO  resources.TestBase - navigated to issue creation page
+18:55:29.329 [main] INFO  resources.TestBase - Filling the issue creation form
+18:55:30.130 [main] INFO  resources.TestBase - issue title set : Issue645
+18:55:31.810 [main] INFO  resources.TestBase - entered description
+18:55:33.699 [main] INFO  resources.TestBase - entered impact
+18:55:34.589 [main] INFO  resources.TestBase - entered indentfiedDate
+18:55:37.641 [main] INFO  resources.TestBase - entered dueDate
+18:55:40.678 [main] INFO  resources.TestBase - selected assigned owner
+18:55:41.411 [main] INFO  resources.TestBase - selected severity
+18:55:42.091 [main] INFO  resources.TestBase - selected milestone
+18:55:44.995 [main] INFO  resources.TestBase - Submitted the issue
+10:45:43.680 [main] INFO  resources.TestBase - Driver is initailize
+10:45:54.269 [main] INFO  resources.TestBase - Picking data login
+10:45:54.269 [main] INFO  resources.TestBase - Login data successfully picked
+10:45:54.384 [main] INFO  resources.TestBase - Logging to the application
+10:46:23.994 [main] INFO  resources.TestBase - Driver is initailize
+10:46:27.440 [main] INFO  resources.TestBase - Picking data login
+10:46:27.440 [main] INFO  resources.TestBase - Login data successfully picked
+10:46:27.498 [main] INFO  resources.TestBase - Logging to the application
+10:47:14.116 [main] INFO  resources.TestBase - Driver is initailize
+10:47:16.184 [main] INFO  resources.TestBase - Picking data login
+10:47:16.184 [main] INFO  resources.TestBase - Login data successfully picked
+10:47:16.238 [main] INFO  resources.TestBase - Logging to the application
+10:48:05.215 [main] INFO  resources.TestBase - Driver is initailize
+10:48:07.435 [main] INFO  resources.TestBase - Picking data login
+10:48:07.435 [main] INFO  resources.TestBase - Login data successfully picked
+10:48:07.474 [main] INFO  resources.TestBase - Logging to the application
+10:48:11.440 [main] INFO  resources.TestBase - Successfully logged in to the appliction
+10:48:11.467 [main] INFO  resources.TestBase - Logging out of the application
+10:48:12.968 [main] INFO  resources.TestBase - Successfully logged out of the application
+10:48:12.968 [main] INFO  resources.TestBase - User has navigated to the dashboard page
+10:48:47.486 [main] INFO  resources.TestBase - Driver is initailize
+10:48:49.507 [main] INFO  resources.TestBase - Picking data login
+10:48:49.508 [main] INFO  resources.TestBase - Login data successfully picked
+10:48:49.547 [main] INFO  resources.TestBase - Logging to the application
+10:48:53.238 [main] INFO  resources.TestBase - Successfully logged in to the appliction
+10:48:53.262 [main] INFO  resources.TestBase - Logging out of the application
+10:48:54.651 [main] INFO  resources.TestBase - Successfully logged out of the application
+10:48:54.652 [main] INFO  resources.TestBase - User has navigated to the dashboard page
+10:50:51.765 [main] INFO  resources.TestBase - Driver is initailize
+10:50:55.729 [main] INFO  resources.TestBase - Validated the error message for blank password
+10:50:57.410 [main] INFO  resources.TestBase - Validated the error message for invalid id
+10:50:58.578 [main] INFO  resources.TestBase - Validated the error message for blank id
+10:50:58.583 [main] INFO  resources.TestBase - Picking data login
+10:50:58.583 [main] INFO  resources.TestBase - Login data successfully picked
+10:50:58.590 [main] INFO  resources.TestBase - Logging to the application
+10:51:02.202 [main] INFO  resources.TestBase - Successfully logged in to the appliction
+10:51:02.223 [main] INFO  resources.TestBase - Logging out of the application
+10:51:03.745 [main] INFO  resources.TestBase - Successfully logged out of the application
+10:51:03.745 [main] INFO  resources.TestBase - User has navigated to the dashboard page
+10:51:03.750 [main] INFO  resources.TestBase - Logging to the application
+10:52:38.406 [main] INFO  resources.TestBase - Driver is initailize
+10:52:40.438 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+10:52:42.842 [main] INFO  resources.TestBase - Validated the error message for blank password
+10:52:44.369 [main] INFO  resources.TestBase - Validated the error message for invalid id
+10:52:45.583 [main] INFO  resources.TestBase - Validated the error message for blank id
+10:52:45.588 [main] INFO  resources.TestBase - Picking data login
+10:52:45.588 [main] INFO  resources.TestBase - Login data successfully picked
+10:52:45.595 [main] INFO  resources.TestBase - Logging to the application
+10:52:48.953 [main] INFO  resources.TestBase - Successfully logged in to the appliction
+10:52:48.967 [main] INFO  resources.TestBase - Logging out of the application
+10:52:50.251 [main] INFO  resources.TestBase - Successfully logged out of the application
+10:52:50.252 [main] INFO  resources.TestBase - User has navigated to the dashboard page
+10:52:50.257 [main] INFO  resources.TestBase - Logging to the application
+10:52:56.947 [main] INFO  resources.TestBase - Successfully login to the application
+10:52:57.480 [main] INFO  resources.TestBase - tapping on issue option
+10:52:57.800 [main] INFO  resources.TestBase - navigated to issue listing page
+10:53:06.368 [main] INFO  resources.TestBase - navigated to issue creation page
+10:53:06.382 [main] INFO  resources.TestBase - Filling the issue creation form
+10:53:07.228 [main] INFO  resources.TestBase - issue title set : Issue883
+10:53:09.477 [main] INFO  resources.TestBase - entered description
+10:53:11.460 [main] INFO  resources.TestBase - entered impact
+10:53:12.395 [main] INFO  resources.TestBase - entered indentfiedDate
+10:53:15.713 [main] INFO  resources.TestBase - entered dueDate
+10:53:18.914 [main] INFO  resources.TestBase - selected assigned owner
+10:53:19.667 [main] INFO  resources.TestBase - selected severity
+10:53:20.355 [main] INFO  resources.TestBase - selected milestone
+10:53:23.134 [main] INFO  resources.TestBase - Submitted the issue
+11:13:07.498 [main] INFO  resources.TestBase - Driver is initailize
+11:13:53.605 [main] INFO  resources.TestBase - Driver is initailize
+11:13:56.537 [main] INFO  resources.TestBase - Logging to the application
+11:15:11.529 [main] INFO  resources.TestBase - Driver is initailize
+11:15:14.949 [main] INFO  resources.TestBase - Logging to the application
+11:15:28.087 [main] INFO  resources.TestBase - Successfully logged in to the appliction with SSO login
+11:15:28.130 [main] INFO  resources.TestBase - Logging out of the application
+11:16:01.607 [main] INFO  resources.TestBase - Driver is initailize
+11:16:03.795 [main] INFO  resources.TestBase - Logging to the application
+11:16:20.788 [main] INFO  resources.TestBase - Driver is initailize
+11:16:22.828 [main] INFO  resources.TestBase - Logging to the application
+11:16:35.682 [main] INFO  resources.TestBase - Successfully logged in to the appliction with SSO login

@@ -1,0 +1,135 @@
+18:06:04.593 [main] INFO  resources.TestBase - Driver is initailize
+18:06:06.899 [main] INFO  resources.TestBase - Navigated to login page
+18:06:10.535 [main] INFO  resources.TestBase - tapping on issue option
+18:09:20.129 [main] INFO  resources.TestBase - Driver is initailize
+18:09:24.507 [main] INFO  resources.TestBase - Navigated to login page
+18:09:28.067 [main] INFO  resources.TestBase - tapping on issue option
+18:10:51.183 [main] INFO  resources.TestBase - Driver is initailize
+18:10:53.389 [main] INFO  resources.TestBase - Navigated to login page
+18:10:56.495 [main] INFO  resources.TestBase - tapping on issue option
+18:12:48.643 [main] INFO  resources.TestBase - Driver is initailize
+18:12:50.864 [main] INFO  resources.TestBase - Navigated to login page
+18:13:00.638 [main] INFO  resources.TestBase - tapping on issue option
+19:36:35.776 [main] INFO  resources.TestBase - Driver is initailize
+19:38:50.801 [main] INFO  resources.TestBase - Driver is initailize
+19:40:05.728 [main] INFO  resources.TestBase - Driver is initailize
+10:26:06.265 [main] INFO  resources.TestBase - Initailizing driver
+10:26:28.472 [main] INFO  resources.TestBase - Driver is initailized
+10:26:28.506 [main] INFO  resources.TestBase - Picking data login
+10:26:28.506 [main] INFO  resources.TestBase - Login data successfully picked
+10:26:28.525 [main] INFO  resources.TestBase - Logging to the application
+10:27:21.376 [main] INFO  resources.TestBase - Initailizing driver
+10:27:37.206 [main] INFO  resources.TestBase - Driver is initailized
+10:27:37.214 [main] INFO  resources.TestBase - Picking data login
+10:27:37.214 [main] INFO  resources.TestBase - Login data successfully picked
+10:27:37.225 [main] INFO  resources.TestBase - Logging to the application
+10:28:34.341 [main] INFO  resources.TestBase - Initailizing driver
+10:28:50.218 [main] INFO  resources.TestBase - Driver is initailized
+10:28:50.233 [main] INFO  resources.TestBase - Picking data login
+10:28:50.233 [main] INFO  resources.TestBase - Login data successfully picked
+10:28:50.253 [main] INFO  resources.TestBase - Logging to the application
+10:30:14.852 [main] INFO  resources.TestBase - Driver is initailize
+10:33:21.844 [main] INFO  resources.TestBase - Driver is initailize
+10:35:53.936 [main] INFO  resources.TestBase - Driver is initailize
+10:43:34.208 [main] INFO  resources.TestBase - Driver is initailize
+11:04:11.281 [main] INFO  resources.TestBase - Initailizing driver
+11:04:30.243 [main] INFO  resources.TestBase - Driver is initailized
+11:04:30.262 [main] INFO  resources.TestBase - Picking data login
+11:04:30.262 [main] INFO  resources.TestBase - Login data successfully picked
+11:04:30.279 [main] INFO  resources.TestBase - Logging to the application
+11:07:53.363 [main] INFO  resources.TestBase - Initailizing driver
+11:08:08.071 [main] INFO  resources.TestBase - Driver is initailized
+11:08:08.084 [main] INFO  resources.TestBase - Picking data login
+11:08:08.084 [main] INFO  resources.TestBase - Login data successfully picked
+11:08:08.097 [main] INFO  resources.TestBase - Logging to the application
+11:10:18.598 [main] INFO  resources.TestBase - Driver is initailize
+11:17:53.458 [main] INFO  resources.TestBase - Driver is initailize
+11:17:59.159 [main] INFO  resources.TestBase - Successfully login to the application
+11:18:00.256 [main] INFO  resources.TestBase - tapping on issue option
+11:18:00.580 [main] INFO  resources.TestBase - navigated to issue listing page
+11:18:01.928 [main] INFO  resources.TestBase - navigated to issue creation page
+11:18:01.928 [main] INFO  resources.TestBase - Filling the issue creation form
+11:21:53.778 [main] INFO  resources.TestBase - Driver is initailize
+11:21:57.409 [main] INFO  resources.TestBase - Successfully login to the application
+11:21:58.484 [main] INFO  resources.TestBase - tapping on issue option
+11:21:59.183 [main] INFO  resources.TestBase - navigated to issue listing page
+11:22:00.279 [main] INFO  resources.TestBase - navigated to issue creation page
+11:22:00.279 [main] INFO  resources.TestBase - Filling the issue creation form
+11:22:01.900 [main] INFO  resources.TestBase - issue titleHFJAHNLJUQ0T6LFF1T
+11:25:03.228 [main] INFO  resources.TestBase - Picking data login
+11:25:03.234 [main] INFO  resources.TestBase - Login data successfully picked
+11:25:03.256 [main] INFO  resources.TestBase - Logging to the application
+11:37:58.744 [main] INFO  resources.TestBase - Initailizing driver
+12:33:18.808 [main] INFO  resources.TestBase - Initailizing driver
+12:33:39.329 [main] INFO  resources.TestBase - Driver is initailized
+12:33:39.342 [main] INFO  resources.TestBase - Picking data login
+12:33:39.342 [main] INFO  resources.TestBase - Login data successfully picked
+12:33:39.354 [main] INFO  resources.TestBase - Logging to the application
+12:34:08.035 [main] INFO  resources.TestBase - Initailizing driver
+12:34:23.416 [main] INFO  resources.TestBase - Driver is initailized
+12:34:23.434 [main] INFO  resources.TestBase - Picking data login
+12:34:23.434 [main] INFO  resources.TestBase - Login data successfully picked
+12:34:23.453 [main] INFO  resources.TestBase - Logging to the application
+12:38:47.403 [main] INFO  resources.TestBase - Driver is initailize
+12:38:47.415 [main] INFO  resources.TestBase - Picking data login
+12:38:47.415 [main] INFO  resources.TestBase - Login data successfully picked
+12:38:47.428 [main] INFO  resources.TestBase - Logging to the application
+12:38:51.516 [main] INFO  resources.TestBase - Successfully logged in to the appliction
+12:38:51.568 [main] INFO  resources.TestBase - Logging out of the application
+12:39:24.033 [main] INFO  resources.TestBase - Driver is initailize
+12:39:24.044 [main] INFO  resources.TestBase - Picking data login
+12:39:24.045 [main] INFO  resources.TestBase - Login data successfully picked
+12:39:24.057 [main] INFO  resources.TestBase - Logging to the application
+12:39:27.672 [main] INFO  resources.TestBase - Successfully logged in to the appliction
+12:39:27.707 [main] INFO  resources.TestBase - Logging out of the application
+12:39:29.626 [main] INFO  resources.TestBase - Validated the error message for blank id
+12:39:31.412 [main] INFO  resources.TestBase - Validated the error message for blank password
+12:39:33.612 [main] INFO  resources.TestBase - Validated the error message for invalid id
+12:40:23.229 [main] INFO  resources.TestBase - Driver is initailize
+12:40:23.240 [main] INFO  resources.TestBase - Picking data login
+12:40:23.240 [main] INFO  resources.TestBase - Login data successfully picked
+12:40:23.251 [main] INFO  resources.TestBase - Logging to the application
+12:41:40.091 [main] INFO  resources.TestBase - Driver is initailize
+12:41:40.099 [main] INFO  resources.TestBase - Picking data login
+12:41:40.099 [main] INFO  resources.TestBase - Login data successfully picked
+12:41:40.110 [main] INFO  resources.TestBase - Logging to the application
+18:23:00.663 [main] INFO  resources.TestBase - Picking data login
+18:23:00.667 [main] INFO  resources.TestBase - Login data successfully picked
+18:24:02.226 [main] INFO  resources.TestBase - Driver is initailize
+18:24:02.235 [main] INFO  resources.TestBase - Logging to the application
+18:24:09.255 [main] INFO  resources.TestBase - Successfully logged in to the appliction
+18:24:09.315 [main] INFO  resources.TestBase - Logging out of the application
+18:24:33.693 [main] INFO  resources.TestBase - Picking data login
+18:24:33.697 [main] INFO  resources.TestBase - Login data successfully picked
+18:24:49.097 [main] INFO  resources.TestBase - Driver is initailize
+18:24:49.105 [main] INFO  resources.TestBase - Logging to the application
+18:26:04.086 [main] INFO  resources.TestBase - Driver is initailize
+18:26:07.761 [main] INFO  resources.TestBase - Successfully login to the application
+18:50:14.470 [main] INFO  resources.TestBase - Driver is initailize
+18:50:18.560 [main] INFO  resources.TestBase - Successfully login to the application
+18:50:19.709 [main] INFO  resources.TestBase - tapping on issue option
+18:50:20.378 [main] INFO  resources.TestBase - navigated to issue listing page
+18:50:21.617 [main] INFO  resources.TestBase - navigated to issue creation page
+18:50:21.617 [main] INFO  resources.TestBase - Filling the issue creation form
+18:50:23.171 [main] INFO  resources.TestBase - issue titleGIEBQ1D74Z6VQLI6YU
+15:00:19.736 [main] INFO  resources.TestBase - Driver is initailize
+15:01:21.843 [main] INFO  resources.TestBase - Driver is initailize
+15:01:25.722 [main] INFO  resources.TestBase - Successfully login to the application
+15:01:26.962 [main] INFO  resources.TestBase - tapping on issue option
+15:01:27.497 [main] INFO  resources.TestBase - navigated to issue listing page
+15:01:28.825 [main] INFO  resources.TestBase - navigated to issue creation page
+15:01:28.826 [main] INFO  resources.TestBase - Filling the issue creation form
+15:01:31.070 [main] INFO  resources.TestBase - issue titleX54V5L45IBL1A7SRCU
+15:02:56.293 [main] INFO  resources.TestBase - Driver is initailize
+15:02:59.907 [main] INFO  resources.TestBase - Successfully login to the application
+15:03:00.946 [main] INFO  resources.TestBase - tapping on issue option
+15:03:01.573 [main] INFO  resources.TestBase - navigated to issue listing page
+15:03:02.918 [main] INFO  resources.TestBase - navigated to issue creation page
+15:03:02.918 [main] INFO  resources.TestBase - Filling the issue creation form
+15:03:04.655 [main] INFO  resources.TestBase - issue title4K2RIAMBA8BO9QIADH
+15:04:13.509 [main] INFO  resources.TestBase - Driver is initailize
+15:04:17.186 [main] INFO  resources.TestBase - Successfully login to the application
+15:04:18.321 [main] INFO  resources.TestBase - tapping on issue option
+15:04:18.924 [main] INFO  resources.TestBase - navigated to issue listing page
+15:04:20.248 [main] INFO  resources.TestBase - navigated to issue creation page
+15:04:20.248 [main] INFO  resources.TestBase - Filling the issue creation form

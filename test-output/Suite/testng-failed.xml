@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="listeners.Listeners"/>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="edgeConnectTest.MTC001Login">
+        <methods>
+          <include name="initalize"/>
+          <include name="teardown"/>
+          <include name="loginToECToCheckFaliureInvalidData"/>
+        </methods>
+      </class> <!-- edgeConnectTest.MTC001Login -->
+      <class name="edgeConnectTest.MTC002IssueCreation">
+        <methods>
+          <include name="initalize"/>
+          <include name="IssueCreation"/>
+          <include name="teardown"/>
+          <include name="before"/>
+        </methods>
+      </class> <!-- edgeConnectTest.MTC002IssueCreation -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

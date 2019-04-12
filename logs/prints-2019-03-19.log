@@ -1,0 +1,15 @@
+12:58:48.256 [main] INFO  resources.Base - Navigated to login page
+12:58:50.197 [main] INFO  resources.Base - Entered username
+12:58:52.087 [main] INFO  resources.Base - Entered password
+12:58:52.933 [main] INFO  resources.Base - Navigated to dashboard page
+12:59:48.877 [main] INFO  resources.Base - Driver is initailize
+12:59:55.956 [main] INFO  resources.Base - Navigated to login page
+12:59:57.628 [main] INFO  resources.Base - Entered username
+12:59:59.953 [main] INFO  resources.Base - Entered password
+13:00:00.878 [main] INFO  resources.Base - Navigated to dashboard page
+13:00:00.930 [main] INFO  resources.Base - logout of the application
+13:00:00.930 [main] INFO  resources.Base - tapping on hamburger menu
+14:49:42.431 [main] INFO  resources.TestBase - Driver is initailize
+14:50:24.555 [main] INFO  resources.TestBase - Driver is initailize
+15:03:57.582 [main] INFO  resources.TestBase - Driver is initailize
+15:04:07.313 [main] INFO  resources.TestBase - Navigated to login page
