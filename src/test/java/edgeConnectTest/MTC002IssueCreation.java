@@ -67,10 +67,6 @@ public class MTC002IssueCreation extends TestBase {
 		AppCoPg.clickIssueMenu();
 		log.info("navigated to issue listing page");
 		
-		Thread.sleep(5000);
-		final String currentURL = driver.getCurrentUrl();		
-		driver.get(currentURL);
-		
 		IssueListingPage ilp = new IssueListingPage(driver);
 		ilp.clickCreateIssueButton();
 		log.info("navigated to issue creation page");

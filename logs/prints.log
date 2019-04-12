@@ -32,3 +32,41 @@
 11:29:20.568 [main] INFO  resources.TestBase - Successfully logged out of the application
 11:29:20.569 [main] INFO  resources.TestBase - User has navigated to the dashboard page
 11:29:20.589 [main] INFO  resources.TestBase - Logging to the application
+18:10:15.093 [main] INFO  resources.TestBase - Driver is initailize
+18:10:18.373 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+18:10:21.823 [main] INFO  resources.TestBase - Picking data login
+18:10:21.823 [main] INFO  resources.TestBase - Login data successfully picked
+18:10:21.828 [main] INFO  resources.TestBase - Logging to the application
+18:10:23.811 [main] INFO  resources.TestBase - Logging to the application
+19:03:44.942 [main] INFO  resources.TestBase - Driver is initailize
+19:03:46.951 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+19:03:51.876 [main] INFO  resources.TestBase - Successfully login to the application
+19:03:52.802 [main] INFO  resources.TestBase - tapping on issue option
+19:03:53.260 [main] INFO  resources.TestBase - navigated to issue listing page
+19:04:01.073 [main] INFO  resources.TestBase - navigated to issue creation page
+19:04:01.080 [main] INFO  resources.TestBase - Filling the issue creation form
+19:04:02.053 [main] INFO  resources.TestBase - issue title set : Issue394
+19:04:03.759 [main] INFO  resources.TestBase - entered description
+19:04:05.821 [main] INFO  resources.TestBase - entered impact
+19:04:06.904 [main] INFO  resources.TestBase - entered indentfiedDate
+19:04:10.581 [main] INFO  resources.TestBase - entered dueDate
+19:04:14.309 [main] INFO  resources.TestBase - selected assigned owner
+19:04:15.247 [main] INFO  resources.TestBase - selected severity
+19:04:16.076 [main] INFO  resources.TestBase - selected milestone
+19:04:18.805 [main] INFO  resources.TestBase - Submitted the issue
+19:05:33.319 [main] INFO  resources.TestBase - Driver is initailize
+19:05:35.304 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+19:05:40.092 [main] INFO  resources.TestBase - Successfully login to the application
+19:05:40.793 [main] INFO  resources.TestBase - tapping on issue option
+19:05:41.123 [main] INFO  resources.TestBase - navigated to issue listing page
+19:05:43.018 [main] INFO  resources.TestBase - navigated to issue creation page
+19:05:43.021 [main] INFO  resources.TestBase - Filling the issue creation form
+19:05:43.872 [main] INFO  resources.TestBase - issue title set : Issue282
+19:05:45.580 [main] INFO  resources.TestBase - entered description
+19:05:47.752 [main] INFO  resources.TestBase - entered impact
+19:05:48.833 [main] INFO  resources.TestBase - entered indentfiedDate
+19:05:52.052 [main] INFO  resources.TestBase - entered dueDate
+19:05:55.130 [main] INFO  resources.TestBase - selected assigned owner
+19:05:56.040 [main] INFO  resources.TestBase - selected severity
+19:05:56.861 [main] INFO  resources.TestBase - selected milestone
+19:05:59.591 [main] INFO  resources.TestBase - Submitted the issue

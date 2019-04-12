@@ -3,13 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="edgeConnectTest.MTC001Login">
+      <class name="edgeConnectTest.MTC002IssueCreation">
         <methods>
           <include name="initalize"/>
+          <include name="IssueCreation"/>
           <include name="teardown"/>
-          <include name="loginToECToCheckFaliureInvalidData"/>
+          <include name="before"/>
         </methods>
-      </class> <!-- edgeConnectTest.MTC001Login -->
+      </class> <!-- edgeConnectTest.MTC002IssueCreation -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
