@@ -13,3 +13,22 @@
 18:37:27.557 [main] INFO  resources.TestBase - Driver is initailize
 18:41:43.065 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
 18:41:43.913 [main] INFO  resources.TestBase - Logging to the application
+11:25:52.000 [main] INFO  resources.TestBase - Driver is initailize
+11:25:54.154 [main] INFO  resources.TestBase - statring test case name : MTC002IssueCreation
+11:25:56.013 [main] INFO  resources.TestBase - Logging to the application
+11:26:22.578 [main] INFO  resources.TestBase - Successfully logged in to the appliction with SSO login
+11:27:13.806 [main] INFO  resources.TestBase - Driver is initailize
+11:27:16.697 [main] INFO  resources.TestBase - Logging to the application
+11:27:44.232 [main] INFO  resources.TestBase - Successfully logged in to the appliction with SSO login
+11:29:03.400 [main] INFO  resources.TestBase - Driver is initailize
+11:29:09.190 [main] INFO  resources.TestBase - Validated the error message for blank password
+11:29:12.714 [main] INFO  resources.TestBase - Validated the error message for invalid id
+11:29:15.959 [main] INFO  resources.TestBase - Validated the error message for blank id
+11:29:15.964 [main] INFO  resources.TestBase - Picking data login
+11:29:15.964 [main] INFO  resources.TestBase - Login data successfully picked
+11:29:15.973 [main] INFO  resources.TestBase - Logging to the application
+11:29:19.386 [main] INFO  resources.TestBase - Successfully logged in to the appliction
+11:29:19.410 [main] INFO  resources.TestBase - Logging out of the application
+11:29:20.568 [main] INFO  resources.TestBase - Successfully logged out of the application
+11:29:20.569 [main] INFO  resources.TestBase - User has navigated to the dashboard page
+11:29:20.589 [main] INFO  resources.TestBase - Logging to the application

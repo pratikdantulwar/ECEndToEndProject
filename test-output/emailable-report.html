@@ -9,17 +9,17 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="7">Default suite</th></tr>
-<tr><td><a href="#t0">Default test</a></td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">19,337</td><td></td><td></td></tr>
+<tr><td><a href="#t0">Default test</a></td><td class="num">4</td><td class="num">0</td><td class="num attn">1</td><td class="num">19,502</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Default suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Default test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">edgeConnectTest.MTC001Login</td><td><a href="#m0">loginToECWithSSO</a></td><td rowspan="1">1554962137309</td><td rowspan="1">18995</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Default suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Default test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">edgeConnectTest.MTC001Login</td><td><a href="#m0">loginToECToCheckFaliureInvalidData</a></td><td rowspan="1">1555048760578</td><td rowspan="1">4122</td></tr><tr><th colspan="4">Default test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="4">edgeConnectTest.MTC001Login</td><td><a href="#m1">loginToEC</a></td><td rowspan="1">1555048755968</td><td rowspan="1">4601</td></tr><tr class="passedeven"><td><a href="#m2">loginToECBlankId</a></td><td rowspan="1">1555048752717</td><td rowspan="1">3242</td></tr><tr class="passedeven"><td><a href="#m3">loginToECBlankPwd</a></td><td rowspan="1">1555048745440</td><td rowspan="1">3751</td></tr><tr class="passedeven"><td><a href="#m4">loginToECInivalidId</a></td><td rowspan="1">1555048749195</td><td rowspan="1">3520</td></tr></tbody>
 </table>
-<h2>Default test</h2><h3 id="m0">edgeConnectTest.MTC001Login#loginToECWithSSO</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: Validating the URL in order to know that user is successfully logged in to the application expected [http://172.26.62.18:9090/dashboard] but found [https://login.microsoftonline.com/kmsi]
+<h2>Default test</h2><h3 id="m0">edgeConnectTest.MTC001Login#loginToECToCheckFaliureInvalidData</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: Validating the URL in order to know that user is successfully logged in to the application expected [http://172.26.62.18:9090/dashboard] but found [http://172.26.62.18:9090/]
 	at org.testng.Assert.fail(Assert.java:96)
 	at org.testng.Assert.failNotEquals(Assert.java:776)
 	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
 	at org.testng.Assert.assertEquals(Assert.java:118)
 	at org.testng.Assert.assertEquals(Assert.java:453)
-	at edgeConnectTest.MTC001Login.loginToECWithSSO(MTC001Login.java:56)
+	at edgeConnectTest.MTC001Login.loginToECToCheckFaliureInvalidData(MTC001Login.java:73)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -46,5 +46,9 @@
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 </div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">edgeConnectTest.MTC001Login#loginToEC</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>554</td><td>Test@123</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">edgeConnectTest.MTC001Login#loginToECBlankId</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">edgeConnectTest.MTC001Login#loginToECBlankPwd</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">edgeConnectTest.MTC001Login#loginToECInivalidId</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

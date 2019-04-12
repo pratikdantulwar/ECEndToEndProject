@@ -1,29 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="5" total="6" passed="0" failed="1" skipped="0">
+<testng-results ignored="1" total="6" passed="4" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-04-11T05:55:37Z" name="Default suite" finished-at="2019-04-11T05:55:56Z" duration-ms="19337">
+  <suite started-at="2019-04-12T05:59:05Z" name="Default suite" finished-at="2019-04-12T05:59:24Z" duration-ms="19502">
     <groups>
     </groups>
-    <test started-at="2019-04-11T05:55:37Z" name="Default test" finished-at="2019-04-11T05:55:56Z" duration-ms="19337">
+    <test started-at="2019-04-12T05:59:05Z" name="Default test" finished-at="2019-04-12T05:59:24Z" duration-ms="19502">
       <class name="edgeConnectTest.MTC001Login">
-        <test-method is-config="true" signature="initalize()[pri:0, instance:edgeConnectTest.MTC001Login@4fbda97b]" started-at="2019-04-11T05:55:18Z" name="initalize" finished-at="2019-04-11T05:55:37Z" duration-ms="18338" status="PASS">
+        <test-method is-config="true" signature="initalize()[pri:0, instance:edgeConnectTest.MTC001Login@4fbda97b]" started-at="2019-04-12T05:58:47Z" name="initalize" finished-at="2019-04-12T05:59:05Z" duration-ms="17490" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initalize -->
-        <test-method signature="loginToECWithSSO()[pri:0, instance:edgeConnectTest.MTC001Login@4fbda97b]" started-at="2019-04-11T05:55:37Z" name="loginToECWithSSO" finished-at="2019-04-11T05:55:56Z" duration-ms="18995" status="FAIL">
+        <test-method signature="loginToECBlankPwd()[pri:1, instance:edgeConnectTest.MTC001Login@4fbda97b]" started-at="2019-04-12T05:59:05Z" name="loginToECBlankPwd" finished-at="2019-04-12T05:59:09Z" duration-ms="3751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToECBlankPwd -->
+        <test-method signature="loginToECInivalidId()[pri:2, instance:edgeConnectTest.MTC001Login@4fbda97b]" started-at="2019-04-12T05:59:09Z" name="loginToECInivalidId" finished-at="2019-04-12T05:59:12Z" duration-ms="3520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToECInivalidId -->
+        <test-method signature="loginToECBlankId()[pri:3, instance:edgeConnectTest.MTC001Login@4fbda97b]" started-at="2019-04-12T05:59:12Z" name="loginToECBlankId" finished-at="2019-04-12T05:59:15Z" duration-ms="3242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToECBlankId -->
+        <test-method signature="loginToEC(java.lang.String, java.lang.String)[pri:4, instance:edgeConnectTest.MTC001Login@4fbda97b]" started-at="2019-04-12T05:59:15Z" name="loginToEC" data-provider="getData" finished-at="2019-04-12T05:59:20Z" duration-ms="4601" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[554]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToEC -->
+        <test-method signature="loginToECToCheckFaliureInvalidData()[pri:5, instance:edgeConnectTest.MTC001Login@4fbda97b]" started-at="2019-04-12T05:59:20Z" name="loginToECToCheckFaliureInvalidData" finished-at="2019-04-12T05:59:24Z" duration-ms="4122" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[Validating the URL in order to know that user is successfully logged in to the application expected [http://172.26.62.18:9090/dashboard] but found [https://login.microsoftonline.com/kmsi]]]>
+              <![CDATA[Validating the URL in order to know that user is successfully logged in to the application expected [http://172.26.62.18:9090/dashboard] but found [http://172.26.62.18:9090/]]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: Validating the URL in order to know that user is successfully logged in to the application expected [http://172.26.62.18:9090/dashboard] but found [https://login.microsoftonline.com/kmsi]
+              <![CDATA[java.lang.AssertionError: Validating the URL in order to know that user is successfully logged in to the application expected [http://172.26.62.18:9090/dashboard] but found [http://172.26.62.18:9090/]
 at org.testng.Assert.fail(Assert.java:96)
 at org.testng.Assert.failNotEquals(Assert.java:776)
 at org.testng.Assert.assertEqualsImpl(Assert.java:137)
 at org.testng.Assert.assertEquals(Assert.java:118)
 at org.testng.Assert.assertEquals(Assert.java:453)
-at edgeConnectTest.MTC001Login.loginToECWithSSO(MTC001Login.java:56)
+at edgeConnectTest.MTC001Login.loginToECToCheckFaliureInvalidData(MTC001Login.java:73)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -54,8 +82,8 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginToECWithSSO -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:edgeConnectTest.MTC001Login@4fbda97b]" started-at="2019-04-11T05:55:56Z" name="teardown" finished-at="2019-04-11T05:55:56Z" duration-ms="317" status="PASS">
+        </test-method> <!-- loginToECToCheckFaliureInvalidData -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:edgeConnectTest.MTC001Login@4fbda97b]" started-at="2019-04-12T05:59:24Z" name="teardown" finished-at="2019-04-12T05:59:24Z" duration-ms="221" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

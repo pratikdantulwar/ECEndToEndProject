@@ -5,9 +5,9 @@
     <classes>
       <class name="edgeConnectTest.MTC001Login">
         <methods>
-          <include name="loginToECWithSSO"/>
           <include name="initalize"/>
           <include name="teardown"/>
+          <include name="loginToECToCheckFaliureInvalidData"/>
         </methods>
       </class> <!-- edgeConnectTest.MTC001Login -->
     </classes>

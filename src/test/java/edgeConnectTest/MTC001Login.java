@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
 
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-import org.testng.asserts.SoftAssert;
+
 
 import pageObjects.AppCommonPage;
 import pageObjects.LoginPage;
@@ -26,7 +26,7 @@ public class MTC001Login extends TestBase {
 		return data;
 	}
 	
-	@Test(dataProvider="getData", priority=4, enabled=false)	
+	@Test(dataProvider="getData", priority=4, enabled=true)	
 	public void loginToEC(String username, String password) throws IOException, InterruptedException
 	{
 		LoginPage lp = new LoginPage(driver);
@@ -45,7 +45,7 @@ public class MTC001Login extends TestBase {
 	}
 
 	
-	@Test(enabled=true)
+	@Test(enabled=false)
 	public void loginToECWithSSO() throws IOException, InterruptedException
 	{
 		LoginPage lp = new LoginPage(driver);
@@ -63,7 +63,7 @@ public class MTC001Login extends TestBase {
 	}
 
 	
-	@Test(priority=5, enabled=false)	
+	@Test(priority=5, enabled=true)	
 	public void loginToECToCheckFaliureInvalidData() throws IOException, InterruptedException
 	{
 		LoginPage lp = new LoginPage(driver);
@@ -80,7 +80,7 @@ public class MTC001Login extends TestBase {
 		log.info("User has navigated to the dashboard page");	
 	}
 
-	@Test(priority=2, enabled=false)	
+	@Test(priority=2, enabled=true)	
 	public void loginToECInivalidId() throws IOException, InterruptedException
 	{
 		LoginPage lp = new LoginPage(driver);
@@ -89,7 +89,7 @@ public class MTC001Login extends TestBase {
 		log.info("Validated the error message for invalid id");
 	}
 	
-	@Test(priority=1, enabled=false)	
+	@Test(priority=1, enabled=true)	
 	public void loginToECBlankPwd() throws IOException, InterruptedException
 	{
 		LoginPage lp = new LoginPage(driver);
@@ -98,7 +98,7 @@ public class MTC001Login extends TestBase {
 		log.info("Validated the error message for blank password");	
 	}
 		
-	@Test(priority=3, enabled=false)	
+	@Test(priority=3, enabled=true)	
 	public void loginToECBlankId() throws IOException, InterruptedException
 	{
 		LoginPage lp = new LoginPage(driver);
